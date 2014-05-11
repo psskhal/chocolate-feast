@@ -1,6 +1,3 @@
-chocolate-feast
-===============
-
 <h1>Problem</h1>
 <p>Little Bob loves chocolates, and goes to the store with £<code>N</code> money in his pocket. The price of each chocolate is £<code>C</code>. The store offers a discount: for every <code>M</code> wrappers he gives the store, he’ll get one chocolate for free. How many chocolates does Bob get to eat?</p>
 
